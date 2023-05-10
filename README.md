@@ -1,8 +1,8 @@
 
 # Hi, I'm Mohamed:
-<div align="center" width="1000">
+<div align="center" width="10">
 
-<img src="https://github.com/Mohamed-Mo7sen/Mohamed-Mo7sen/blob/main/result%20(1).gif?raw=true" alt="Welcome !" width="400" hight ="400"/>
+<img src="https://github.com/Mohamed-Mo7sen/Mohamed-Mo7sen/blob/main/result%20(1).gif?raw=true" alt="Welcome !" width="1000" />
 
 </div>
 <div align="center">
