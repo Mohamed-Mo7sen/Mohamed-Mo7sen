@@ -2,7 +2,7 @@
 # Hi, I'm Mohamed:
 <div align="center" width="50">
 
-<img src="https://github.com/Mohamed-Mo7sen/Mohamed-Mo7sen/blob/main/result%20(1).gif?raw=true" alt="Welcome !" width="300" hight ="400"/>
+<img src="https://github.com/Mohamed-Mo7sen/Mohamed-Mo7sen/blob/main/result%20(1).gif?raw=true" alt="Welcome !" width="3000" hight ="400"/>
 
 </div>
 <div align="center">
