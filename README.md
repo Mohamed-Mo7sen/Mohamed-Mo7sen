@@ -1,8 +1,6 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+# Hi, I'm Mohamed:
 
-##### Hi, I'm Adam:
-
-- 🎓Recent computer science graduate from UNC - Chapel Hill
+- computer science student at SCU -Egypt
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
