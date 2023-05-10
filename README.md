@@ -1,6 +1,6 @@
 
 # Hi, I'm Mohamed:
-<div align="center" width="100">
+<div align="center" width="1000">
 
 <img src="https://github.com/Mohamed-Mo7sen/Mohamed-Mo7sen/blob/main/result%20(1).gif?raw=true" alt="Welcome !" width="4000" hight ="400"/>
 
