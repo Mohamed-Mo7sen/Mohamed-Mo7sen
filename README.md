@@ -1,8 +1,8 @@
 
 # Hi, I'm Mohamed:
-<div align="center" width="50">
+<div align="center" width="100">
 
-<img src="https://github.com/Mohamed-Mo7sen/Mohamed-Mo7sen/blob/main/result%20(1).gif?raw=true" alt="Welcome !" width="3000" hight ="400"/>
+<img src="https://github.com/Mohamed-Mo7sen/Mohamed-Mo7sen/blob/main/result%20(1).gif?raw=true" alt="Welcome !" width="4000" hight ="400"/>
 
 </div>
 <div align="center">
@@ -11,7 +11,7 @@
 
 <i>Follow me:</i><br>
 
--computer science student at SCU -Egypt
+
 -:mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mo7amed_Mohsen)
