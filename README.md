@@ -2,19 +2,17 @@
 # Hi, I'm Mohamed:
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome" width="300"/>
+<img src="https://photos.app.goo.gl/51toakXuVS7YEVcr5" alt="Welcome!" width="300"/>
 
 </div>
-
-
 <div align="center">
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me:</i><br>
 
-- computer science student at SCU -Egypt
-- :mailbox: You can reach me with the links below
+-computer science student at SCU -Egypt
+-:mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mo7amed_Mohsen)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhmadmohsen1@gmail.com)
