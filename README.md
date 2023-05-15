@@ -7,7 +7,7 @@
 </div>
 
 
-
+<div align="center">
 
 <i>Follow me:</i><br>
 
@@ -29,7 +29,7 @@
 
 
 
-
+</div>
 
 
 
