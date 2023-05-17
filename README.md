@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<i>Follow me:</i><br>
+<i>How can you reach me 👇:</i><br>
 
 
 -:mailbox: You can reach me with the links below
